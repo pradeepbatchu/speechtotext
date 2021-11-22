@@ -1,3 +1,3 @@
-# Speech Recognition with Wav2Vec2
+# Speech to Text with Wav2Vec2 using torchaudio for English and Indic
 
-ref: https://pytorch.org/audio/main/tutorials/speech_recognition_pipeline_tutorial.html
+
